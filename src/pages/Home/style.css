@@ -1,0 +1,17 @@
+.header {
+  display: flex;
+  height: 60px;
+  background-color: #778899;
+}
+
+.header h2 {
+  text-align: center;
+  padding-top: 15px;
+}
+
+.header img {
+  margin-top: 10px;
+  margin-right: 5px;
+  width: 37px;
+  height: 37px;
+}
